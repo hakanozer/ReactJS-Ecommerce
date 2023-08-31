@@ -1,46 +1,20 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# ReactJS E-Commerce
+An e-commerce application backend and frontend service application, admin panel and user-side consists of the site. For application security management It uses the Basic Auth system. Login in the admin panel in the application The sale of the products made after the user logs in on the front is done. Follow-up of sales and control of products It is managed by the admin panel. No role delegates to a different role cannot be included and within its limits can use the application. TECHNOLOGIES USED: Java 8, Spring Boot, Maven, Spring JPA, Spring RestAPI, Mysql, Validation, Spring Security, ReactJS
+## Project Lang
+- ReactJS
+- React Router Dom
+- Axios
+- Crypto-js 
+- Simple Image Slider
+- Simple Star Rating
+- Toastify
+- Image Gallery
+## Server Rest Api
+- https://dummyjson.com/docs
+## Demo User
+|  No |  Username | Password  |
+| ------------ | ------------ | ------------ |
+|  1 |  kminchelle  | 0lelplR  |
+|  2| atuny0   | 9uQFF1Lh   |
+|  3| hbingley1    | CQutx25i8r    |
+## Project Display
