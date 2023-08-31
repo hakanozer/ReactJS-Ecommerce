@@ -1,0 +1,32 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.card:hover {
+    border-color: #ed0000;
+}
+
+@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ }
+@media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
+@media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+@media (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
+
+.image-gallery-slide img {
+    height: 350px;
+}
+
+.headerNav .navbar-nav {
+    flex-wrap: wrap;
+}
+
+.headerNav .navbar-nav a {
+    border: 1px solid #acacac;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.headerNav .navbar-nav a:hover {
+    border: 1px solid #454545;
+}
